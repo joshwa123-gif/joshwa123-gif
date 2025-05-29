@@ -1,4 +1,16 @@
-<!DOCTYPE html>
+<h2>Skills</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+</ul>
+
+<h2>Projects</h2>
+<p>Portfolio Website – Created using HTML & CSS</p>
+
+<h2>Contact8903494299</h2>
+<p>Email: jackwarajoshwa250@gmail.com</p><!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
